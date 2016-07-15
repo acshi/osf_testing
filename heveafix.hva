@@ -1,0 +1,8 @@
+\usepackage[utf8]{inputenc}
+\let\dfrac=\frac
+\let\tfrac=\frac
+\newcommand{\degree}{°}
+\newcommand{\caption}[2]{\\ #2}
+\newcommand{\captionof}[2]{\\ #2}
+\newcommand{\caption*}[2]{\\ #2}
+\newcommand{\captionof*}[2]{\\ #2}
